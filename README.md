@@ -1,7 +1,7 @@
 # DiscordVoiceMessage
 Sends .ogg files using the discord voice message feature
 
-* only works on dm's and channels where "Send Voice Messages" was enabled
+* only works on dm and channels where "Send Voice Messages" was enabled
 * only works for ogg audio files, use a convertor : https://convertio.co/mp3-ogg/
 
 # Requirements
